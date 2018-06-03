@@ -1,0 +1,51 @@
+header {
+    border: 3 px solid black;
+    font: 20px;
+    text-align: center;
+    margin: 15px auto;
+    height: 100px;
+    width: 80%;
+}
+
+body{
+    /* background-color: lightblue; */
+    background: url("../images/mcdonalds.jpg") no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    font-size: 40px;
+
+
+
+}
+
+.underscore {
+    border: 3 px solid black;
+    font: 100px;
+    text-align: center;
+    margin: 25px auto;
+    height: 150px;
+    width: 80%;   
+}
+
+.rightGuess {
+    border: 3 px solid black;
+    font-size: 20px;
+    text-align: center;
+    margin: 20px auto;
+    height: 150px;
+    width: 80%;   
+}
+
+.wrongGuess {
+    border: 3 px solid black;
+    font-size: 20px;
+    text-align: center;
+    margin: 20px auto;
+    height: 150px;
+    width: 80%;   
+}
+
+.title {
+    text-align: center;
+}
+
